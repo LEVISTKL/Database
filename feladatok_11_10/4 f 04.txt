@@ -1,0 +1,1 @@
+γ count(konyv.cim)->darabszam (σ mufaj = 'Fantasy' (konyv))

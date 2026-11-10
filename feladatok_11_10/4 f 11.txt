@@ -1,0 +1,1 @@
+π nev, darabszam (γ nev; count(kkod)->darabszam (konyv ⨝ (szerzo = szkod) szerzo))

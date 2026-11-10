@@ -1,0 +1,1 @@
+π cim, ar (konyv ⨝(ar = max_ar) (γ max(ar)->max_ar (konyv)))

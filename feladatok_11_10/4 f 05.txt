@@ -1,0 +1,1 @@
+π cim, ar (konyv ⨝(ar = min_ar) (γ min(ar)->min_ar (konyv)))
